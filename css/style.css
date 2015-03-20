@@ -1,0 +1,27 @@
+.navbar-color {
+ background-color: #00FFFF;
+}
+
+.content-text{
+	
+	width: 650px;
+}
+
+.content-text-kanan{
+	width: 200px;
+}
+
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+
+.box-img{
+	background-color: #FF0000;
+	width: 50px;
+}
+.box-img img{
+	padding: 50px;
+}
